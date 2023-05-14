@@ -10,7 +10,7 @@ I was able to build a model that predicts fault status of machines in a producti
 This notebook takes you through the process of predicting if a machine part will fail or not by classifying based on the sensor reading of the machine. [Fauly_machine](https://github.com/OLAMILEKAN011/Faulty-Sensors/blob/main/Faulty%20Machine%20Sensor.ipynb)
 
 ## Config
-I recommend using python3 jupyter notebook for this project for easy running.
+I recommend using pyspark in azure datbrick notebook for this project for easy running. This code can also be viewed in jupyter notebook.
 
 ## Data
 The dataset is a numerical data for one thousand machines with twenty sensor readings each. The data is labelled and the label column is categorical.
